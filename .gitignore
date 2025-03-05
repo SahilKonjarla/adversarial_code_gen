@@ -1,2 +1,3 @@
-code_gen
-.ipynb_checkpoints/
+code_gen/
+.env
+human-eval/
